@@ -16,3 +16,5 @@ Ao longo da documentação, nas explicações das regras de negócios, não irem
 Foi usado o H2 dataset para vincularmos o banco de dados sql para o projeto. É como se estivesse usando o cpanel, que é um serviço de banco de dados mysql que pode ser vinculado ao endereço IP de um sistema na forma de cloud.
 
 ## JPA repository, dependency injection, database seeding:
+
+## Service layer, component registration:
