@@ -22,3 +22,5 @@ Foi usado o H2 dataset para vincularmos o banco de dados sql para o projeto. É 
 ## Order, Instant, ISO 8601:
 
 ## OrderStatus enum:
+
+## Category:
