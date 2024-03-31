@@ -10,4 +10,4 @@ Esse sistema foi criado com o intuito de colocar em prática o conhecimento adqu
 
 Ao longo da documentação, nas explicações das regras de negócios, não iremos somente explicar como ela funciona, mas, também, iremos explicar quais técnicas utilizamos dentro da boa prática que melhor otimiza a performance desse sistema e segurança.
 
-
+## User entities and resource:
