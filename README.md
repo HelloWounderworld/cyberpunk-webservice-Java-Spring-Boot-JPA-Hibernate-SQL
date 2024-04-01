@@ -30,3 +30,5 @@ Foi usado o H2 dataset para vincularmos o banco de dados sql para o projeto. É 
 ## OrderItem, many-to-many association with extra attributes:
 
 ## Product-OrderItem one-to-many association:
+
+## Payment, one-to-one association:
