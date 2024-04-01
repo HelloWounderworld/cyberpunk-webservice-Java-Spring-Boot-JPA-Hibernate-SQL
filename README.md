@@ -24,3 +24,5 @@ Foi usado o H2 dataset para vincularmos o banco de dados sql para o projeto. É 
 ## OrderStatus enum:
 
 ## Category:
+
+## Many-to-many association with JoinTable:
