@@ -53,3 +53,6 @@ Foi usado o H2 dataset para vincularmos o banco de dados sql para o projeto. É 
 		"email": "bob@gmail.com",
 		"phone": "977557755"
 	}
+
+## Exception handling - findById:
+	
