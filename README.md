@@ -34,3 +34,12 @@ Foi usado o H2 dataset para vincularmos o banco de dados sql para o projeto. É 
 ## Payment, one-to-one association:
 
 ## Subtotal & Total methods:
+
+## User Insert:
+
+	{
+		"name": "Bob Brown",
+		"email": "bob@gmail.com",
+		"phone": "977557755",
+		"password": "123456"
+	}
