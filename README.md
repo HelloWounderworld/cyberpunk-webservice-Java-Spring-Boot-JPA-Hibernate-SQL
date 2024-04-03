@@ -45,3 +45,11 @@ Foi usado o H2 dataset para vincularmos o banco de dados sql para o projeto. É 
 	}
 	
 ## User Delete:
+
+## User Update:
+
+	{
+		"name": "Bob Brown",
+		"email": "bob@gmail.com",
+		"phone": "977557755"
+	}
