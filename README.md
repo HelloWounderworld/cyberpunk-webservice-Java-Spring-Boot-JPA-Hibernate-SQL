@@ -1,19 +1,19 @@
 # Cyber Punk Design Bank
-Projeto onde integra todos os conhecimentos Java, Spring Boot, JPA/Hibernate e SQL, à um sistema de serviços web padrão.
+Project that integrates all Java, Spring Boot, JPA/Hibernate and SQL knowledge into a standard web services system.
 
-Mediante à criação desse projeto utilizarei esse espaço para documentar as regras de negócios que foram configurados para o funcionamento desse projeto.
+Upon creating this project, I will use this space to document the business rules that were configured for the operation of this project.
 
-# Documentação - Cyber Punk Design Bank:
+# Documentation - Cyber Punk Design Bank:
 
-## Introdução:
-Esse sistema foi criado com o intuito de colocar em prática o conhecimento adquirido das tecnologias como Java, Spring Boot, JPA, Hibernate e SQL. Modelamos um sistema simples, porém que nos ajuda a ter uma noção da arquitetura e regra de negócio, cujos conceitos é presente em qualquer outro sistema de web service. No caso, esperamos que a pessoa que estiver tentando entender esse meu projeto consiga realmente entender os fundamentos desses conceitos que serão aplicados de forma independente da funcionalidade desse sistema que é uma mera consequência das aplicações desses conceitos fundamentais.
+## Introduction:
+This system was created with the aim of putting into practice the knowledge acquired from technologies such as Java, Spring Boot, JPA, Hibernate and SQL. We modeled a simple system, but it helps us get a sense of the architecture and business rules, the concepts of which are present in any other web service system. In this case, we hope that the person trying to understand my project can really understand the fundamentals of these concepts that will be applied independently of the functionality of this system, which is a mere consequence of the applications of these fundamental concepts.
 
-Ao longo da documentação, nas explicações das regras de negócios, não iremos somente explicar como ela funciona, mas, também, iremos explicar quais técnicas utilizamos dentro da boa prática que melhor otimiza a performance desse sistema e segurança.
+Throughout the documentation, in the explanations of the business rules, we will not only explain how it works, but we will also explain which techniques we use within the best practice that best optimizes the performance of this system and security.
 
 ## User entities and resource:
 
 ## H2 dataset, test profile, JPA:
-Foi usado o H2 dataset para vincularmos o banco de dados sql para o projeto. É como se estivesse usando o cpanel, que é um serviço de banco de dados mysql que pode ser vinculado ao endereço IP de um sistema na forma de cloud.
+The H2 dataset was used to link the sql database to the project. It's as if you were using cPanel, which is a mysql database service that can be linked to the IP address of a system in the form of a cloud.
 
 ## JPA repository, dependency injection, database seeding:
 
@@ -59,4 +59,18 @@ Foi usado o H2 dataset para vincularmos o banco de dados sql para o projeto. É 
 ## Exception handling - delete:
 
 ## Exception handling - update:
+
+## Create Heroku app & provision PostgreSQL - From now on it is optional:
+
+## Install local PostgreSQL:
+
+## Dev profile:
+
+## Get SQL script from local PostgreSQL:
+
+## Run SQL Script:
+
+## Heroku CLI:
+
+## Deploy app to Heroku:
 	
